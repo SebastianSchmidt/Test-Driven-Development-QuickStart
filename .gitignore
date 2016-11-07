@@ -1,0 +1,21 @@
+# Generated files and directories
+target/
+out/
+dependency-reduced-pom.xml
+*.class
+
+# Temporary files
+tmp/
+*.tmp
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.settings/
+.metadata/
+.classpath
+.project
+*.launch
