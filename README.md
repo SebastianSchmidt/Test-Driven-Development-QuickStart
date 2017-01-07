@@ -1,5 +1,7 @@
 # Test-driven Development - QuickStart
 
+[![Build Status](https://travis-ci.org/SebastianSchmidt/Test-Driven-Development-QuickStart.svg?branch=master)](https://travis-ci.org/SebastianSchmidt/Test-Driven-Development-QuickStart)
+
 ## Voraussetzungen
 
 * Java JDK 8
