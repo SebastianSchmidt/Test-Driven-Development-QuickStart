@@ -1,6 +1,7 @@
 # Test-driven Development - QuickStart
 
 [![Build Status](https://travis-ci.org/SebastianSchmidt/Test-Driven-Development-QuickStart.svg?branch=master)](https://travis-ci.org/SebastianSchmidt/Test-Driven-Development-QuickStart)
+[![Coverage Status](https://coveralls.io/repos/github/SebastianSchmidt/Test-Driven-Development-QuickStart/badge.svg?branch=master)](https://coveralls.io/github/SebastianSchmidt/Test-Driven-Development-QuickStart?branch=master)
 
 ## Voraussetzungen
 
